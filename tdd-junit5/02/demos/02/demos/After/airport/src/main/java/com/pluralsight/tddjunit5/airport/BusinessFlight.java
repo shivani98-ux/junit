@@ -13,6 +13,7 @@ public class BusinessFlight extends Flight {
 		}
 		return false;
 	}
+	
 
 	@Override
 	public boolean removePassenger(Passenger passenger) {
